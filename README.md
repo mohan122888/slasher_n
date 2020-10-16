@@ -1,2 +1,2 @@
-# pybranch
-python libraries, code only basics for interview purposes
+# learnpython
+python basics, tools and platforms
