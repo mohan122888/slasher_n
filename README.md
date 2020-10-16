@@ -1,2 +1,2 @@
-# slasher_n
-starting python
+# pybranch
+python libraries, code only basics for interview purposes
