@@ -1,2 +1,2 @@
 # learnpython
-python basics, tools and platforms
+python basics, tools, services and platforms
